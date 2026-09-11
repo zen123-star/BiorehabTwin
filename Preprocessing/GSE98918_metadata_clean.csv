@@ -1,0 +1,25 @@
+GSM_ID,Group,Sample_Title,Age,Sex,BMI
+GSM2627518,non-OA,001 arthroscopic partial meniscectomy,37,Female,21.92
+GSM2627519,non-OA,002 arthroscopic partial meniscectomy,45,Male,28.84
+GSM2627520,non-OA,003 arthroscopic partial meniscectomy,62,Female,27.76
+GSM2627521,non-OA,004 arthroscopic partial meniscectomy,58,Female,20.52
+GSM2627522,non-OA,005 arthroscopic partial meniscectomy,31,Female,24.27
+GSM2627523,non-OA,007 arthroscopic partial meniscectomy,53,Male,26.62
+GSM2627524,non-OA,008 arthroscopic partial meniscectomy,50,Male,28.48
+GSM2627525,non-OA,009 arthroscopic partial meniscectomy,65,Female,27.07
+GSM2627526,non-OA,010 arthroscopic partial meniscectomy,53,Male,31.99
+GSM2627527,non-OA,011 arthroscopic partial meniscectomy,43,Male,34.43
+GSM2627528,non-OA,012 arthroscopic partial meniscectomy,40,Male,24.54
+GSM2627529,non-OA,013 arthroscopic partial meniscectomy,53,Male,26.32
+GSM2627530,OA,102 osteoarthritis,57,Male,31.80
+GSM2627531,OA,103 osteoarthritis,64,Female,28.72
+GSM2627532,OA,104 osteoarthritis,53,Female,30.04
+GSM2627533,OA,105 osteoarthritis,62,Female,46.51
+GSM2627534,OA,106 osteoarthritis,80,Male,30.42
+GSM2627535,OA,107 osteoarthritis,67,Female,38.62
+GSM2627536,OA,108 osteoarthritis,70,Female,38.47
+GSM2627537,OA,109 osteoarthritis,64,Female,44.62
+GSM2627538,OA,111 osteoarthritis,61,Male,31.46
+GSM2627539,OA,112 osteoarthritis,62,Female,46.05
+GSM2627540,OA,113 osteoarthritis,79,Female,31.28
+GSM2627541,OA,114 osteoarthritis,64,Female,37.29
